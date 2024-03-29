@@ -1,4 +1,4 @@
-# lista per Day 3
+# Scaletta Giorno 3
 
-- Consolidamento ed esercizi
+- Consolidamento pregresso
 - Unit Tests
